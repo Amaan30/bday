@@ -26,7 +26,7 @@ html,body{
         justify-content: center;
         align-items: center;
 
-        background: url("MEDIA/flat-design-baby-shower-zoom-background/6514482.jpg") no-repeat fixed center;
+        background: url("6514482.jpg") no-repeat fixed center;
         background-size: cover;
         background-repeat: inherit;
 }
@@ -56,12 +56,12 @@ html,body{
 #img{
         height: 75vh;
         width: 75vw;
-        background: url(/MEDIA/sakshi.png) no-repeat;
+        background: url("sakshi.png") no-repeat;
         background-size: contain;
 }
 #img2{
         height: 25vh;
         width: 50vw;
-        background: url(/MEDIA/Paimon-Transparent-PNG.png) no-repeat;
+        background: url("Paimon-Transparent-PNG.png") no-repeat;
         background-size: contain;
 }
